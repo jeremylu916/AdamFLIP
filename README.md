@@ -153,6 +153,3 @@ Specify a license (e.g., MIT, Apache-2.0) by adding a `LICENSE` file. If omitted
 
 ---
 
-## Contact
-
-- GitHub: https://github.com/jeremylu916
